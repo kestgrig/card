@@ -17,11 +17,8 @@ Site published at: https://github.com/kestgrig/cards
 ## 🎯 Project features/goals
 
 -   Github pages
--   icons (FontAwesome, ReactIcons)
 -   CSS files
--   CSS flex
--   CSS grid
--   **NO** responsive design
+-   HTML
 
 ## 🧰 Getting Started
 
